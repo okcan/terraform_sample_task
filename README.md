@@ -697,3 +697,4 @@ Terraform will perform the following actions:
 
 Plan: 38 to add, 0 to change, 0 to destroy.# terraform
 ```
+P.S. If desired, the references I used can be shared.
