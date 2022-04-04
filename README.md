@@ -32,6 +32,8 @@ As you can see below, the output of the plan is as follows
 
 P.S. tf file must be in specific folder
 
+P.S. Please install aws cli otherwise you can get error .
+
 -------------------------------------------------------------------------------------------------------------------
 
 ```json
