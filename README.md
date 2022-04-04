@@ -1,3 +1,5 @@
+<b> +++ Task2 +++ </b>
+
 You must use either Terraform, AWS CloudFormation or AWS CDK for all of the following tasks.
 
 Create code for deploying a VPC in AWS with 2 public and 2 private subnets.
@@ -9,11 +11,13 @@ Add a README.md to the root directory of your project, with instructions for the
 Publish your code to a public Git repository in a platform of your choice (e.g. GitHub, GitLab, Bitbucket, etc.), so that it can be cloned and tested by the team.
 
 
-+++Instruction+++
+<b> +++ Instruction +++ </b> 
 
 2 vpc has been created , EKS will be created and with the desired instance type .
 
 First you need to make a terraform plan after terraform init and then apply it.
+
+Please use main.tf file and all you need is in this code file .
 
 ```json
 
