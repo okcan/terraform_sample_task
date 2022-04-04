@@ -22,14 +22,15 @@ terraform init
 terraform plan
 
 terraform apply 
-'''
+```
 
 As you can see below, the output of the plan is as follows
 
 P.S. tf file must be in specific folder
 
 -------------------------------------------------------------------------------------------------------------------
-```bash
+
+```json
 
 
 ubuntu@bastion-node:~/terraform_test$ terraform plan
