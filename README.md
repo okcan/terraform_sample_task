@@ -15,18 +15,21 @@ Publish your code to a public Git repository in a platform of your choice (e.g. 
 
 First you need to make a terraform plan after terraform init and then apply it.
 
+```json
+
 terraform init
 
 terraform plan
 
 terraform apply 
+'''
 
 As you can see below, the output of the plan is as follows
 
 P.S. tf file must be in specific folder
 
 -------------------------------------------------------------------------------------------------------------------
-```json
+```bash
 
 
 ubuntu@bastion-node:~/terraform_test$ terraform plan
