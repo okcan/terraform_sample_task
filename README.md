@@ -26,21 +26,9 @@ As you can see below, the output of the plan is as follows
 P.S. tf file must be in specific folder
 
 -------------------------------------------------------------------------------------------------------------------
-Initializing modules...
+```json
 
-Initializing the backend...
 
-Initializing provider plugins...
-
-Terraform has been successfully initialized!
-
-You may now begin working with Terraform. Try running "terraform plan" to see
-any changes that are required for your infrastructure. All Terraform commands
-should now work.
-
-If you ever set or change modules or backend configuration for Terraform,
-rerun this command to reinitialize your working directory. If you forget, other
-commands will detect it and remind you to do so if necessary.
 ubuntu@bastion-node:~/terraform_test$ terraform plan
 Refreshing Terraform state in-memory prior to plan...
 The refreshed state will be used to calculate this plan, but will not be
@@ -698,3 +686,4 @@ Terraform will perform the following actions:
     }
 
 Plan: 38 to add, 0 to change, 0 to destroy.# terraform
+```
